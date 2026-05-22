@@ -14,7 +14,7 @@ function Cadastro() {
           <label htmlFor=""> Confirmar Senha</label>
           <input placeholder='Digite novamente sua senha...' type="password" />
           <button>Criar</button>
-          <a href="" className='entrar'>Já tem uma conta? Entrar</a>
+          <a href="" className={styles.entrar}>Já tem uma conta? Entrar</a>
           </div>
   )
 }

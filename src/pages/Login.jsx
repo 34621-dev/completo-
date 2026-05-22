@@ -17,7 +17,7 @@ function Login() {
              <button>Entrar</button>
              <a href="" className= {styles.esqueceu}>Esqueceu a senha?</a>
            </div>
-     </main>
+</main>
   )
 }
 
